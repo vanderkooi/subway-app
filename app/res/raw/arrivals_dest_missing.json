@@ -1,0 +1,41 @@
+[
+	{
+		"$type": "Tfl.Api.Presentation.Entities.Prediction, Tfl.Api.Presentation.Entities",
+		"currentLocation": "At Platform",
+		"destinationName": "Heathrow Terminals 1-2-3 Underground Station",
+		"destinationNaptanId": "940GZZLUHRC",
+		"direction": "inbound",
+		"expectedArrival": "2015-04-29T06:01:54.009Z",
+		"id": "-1794387875",
+		"lineId": "piccadilly",
+		"lineName": "Piccadilly",
+		"modeName": "tube",
+		"naptanId": "940GZZLUTPN",
+		"operationType": 1,
+		"platformName": "WestBound - Platform 2",
+		"stationName": "Turnpike Lane Underground Station",
+		"timestamp": "2015-04-29T06:01:54.009Z",
+		"timeToLive": "2015-04-29T06:01:54.009Z",
+		"timeToStation": 0,
+		"towards": "Heathrow T123 + 5",
+		"vehicleId": "322"
+	},
+	{
+		"$type": "Tfl.Api.Presentation.Entities.Prediction, Tfl.Api.Presentation.Entities",
+		"currentLocation": "Left Wood Green Sidings",
+		"expectedArrival": "2015-04-29T06:04:48.025Z",
+		"id": "-1927803346",
+		"lineId": "piccadilly",
+		"lineName": "Piccadilly",
+		"modeName": "tube",
+		"naptanId": "940GZZLUTPN",
+		"operationType": 1,
+		"platformName": "WestBound - Platform 2",
+		"stationName": "Turnpike Lane Underground Station",
+		"timestamp": "2015-04-29T06:01:54.025Z",
+		"timeToLive": "2015-04-29T06:04:48.025Z",
+		"timeToStation": 174,
+		"towards": "Check Front of Train",
+		"vehicleId": "355"
+	}
+]

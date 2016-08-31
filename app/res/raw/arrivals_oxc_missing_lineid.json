@@ -1,0 +1,23 @@
+[
+  {
+	"$type": "Tfl.Api.Presentation.Entities.Prediction, Tfl.Api.Presentation.Entities",
+	"currentLocation": "At Holborn",
+	"destinationName": "Ealing Broadway Underground Station",
+	"destinationNaptanId": "940GZZLUEBY",
+	"direction": "inbound",
+	"expectedArrival": "2015-04-28T16:29:13.47Z",
+	"id": "181743474",
+	"lineName": "Central",
+	"modeName": "tube",
+	"naptanId": "940GZZLUOXC",
+	"operationType": 1,
+	"platformName": "Westbound - Platform 1",
+	"stationName": "Oxford Circus Underground Station",
+	"timestamp": "2015-04-28T16:25:18.47Z",
+	"timeToLive": "2015-04-28T16:29:13.47Z",
+	"timeToStation": 235,
+	"towards": "Ealing Broadway",
+	"vehicleId": "011"
+  }
+]
+
